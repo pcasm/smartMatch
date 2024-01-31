@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.0.0",
+    "ts-jest": "latest"
+  }
+}
